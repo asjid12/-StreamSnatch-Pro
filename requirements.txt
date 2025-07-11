@@ -1,4 +1,0 @@
-gradio
-yt_dlp
-pyngrok
-huggingface_hub
